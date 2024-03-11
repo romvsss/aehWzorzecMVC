@@ -11,7 +11,7 @@ const getStudentFullName = () => {
             return "Kacper Nowak";
         case 2:
             return "Maja Kowalska";
-        default: 
+        default:
             return "Michal Wisniewski";
     }
 }
@@ -24,7 +24,7 @@ const getStudentID = () => {
             return "111222";
         case 2:
             return "222333";
-        default: 
+        default:
             return "333444";
     }
 }
